@@ -54,6 +54,12 @@ checkov -f Dockerfile
 * severity (شدت) مشکلات
 
 ---
+تفاوت با ابزارهایی مثل Checkov یا Trivy
+
+Checkov / Trivy / Hadolint → بررسی امنیت کد و کانتینرها (قبل از deploy).
+
+OpenVAS → اسکن امنیتی زنده روی سرورها و شبکه‌ها (بعد از deploy).
+
 
 ## ۴. گزینه‌های مهم Checkov
 
