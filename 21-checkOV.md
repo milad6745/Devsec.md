@@ -2,7 +2,8 @@
 
 ---
 
-## ۱. Checkov چیست؟
+## Checkov چیست؟
+
 
 * یک ابزار **Open Source** برای بررسی **misconfigurations و ضعف‌های امنیتی** در فایل‌های زیر است:
 
